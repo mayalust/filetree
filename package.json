@@ -1,0 +1,22 @@
+{
+  "name": "filetree",
+  "version": "1.0.0",
+  "description": "filetree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayalust/filetree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin" : {
+    "filetree" : "./dist/filetree.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mayalust/filetree/issues"
+  },
+  "homepage": "https://github.com/mayalust/filetree#readme"
+}
